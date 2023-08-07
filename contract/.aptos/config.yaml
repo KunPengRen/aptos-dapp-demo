@@ -1,0 +1,8 @@
+---
+profiles:
+  my-first-nft:
+    private_key: "0x16deda0b30080b247ecfa9d23239acbed958f0817cf715de393f7e7dcf72c3ea"
+    public_key: "0x6191b3399043d2b526e98ebc011f25f41ada106c5ae6c34f3e34a7021fd620e9"
+    account: 74a446cd73dff71545b2ef1429604496b6873d59edadccc214c12a9129a3a124
+    rest_url: "https://fullnode.devnet.aptoslabs.com"
+    faucet_url: "https://faucet.devnet.aptoslabs.com"
